@@ -6,6 +6,6 @@
 version: 2
 updates:
   - package-ecosystem: "github-actions"
-    directory: "/"
+    directory: "https://github.com/shishiwow/winlator-glibc"
     schedule:
       interval: "daily"
